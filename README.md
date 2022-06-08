@@ -1,5 +1,11 @@
 # Boas-vindas ao repositório do Projeto Playground Functions!
 
+### README Translations:
+* [English](/README.en.md)
+* [Portuguese](/README.md)
+
+---
+
 ## 👨‍💻 O que foi desenvolvido:
 
   - No meu time de desenvolvimento, fiquei responsável por implementar o código de funções que resolvem problemas com respostas pré-determinadas. Utilizei a lógica de programação para me ajudar na análise de cada problema e resposta esperada, facilitando a implementação do código de cada uma das funções. Todas as funções estão declaradas nos arquivos `challenges.js` e `challenges2.js`. 
